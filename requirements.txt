@@ -1,0 +1,4 @@
+zipfile
+xlrd
+openpyxl
+PyPDF2
