@@ -1,4 +1,4 @@
-zipfile
 xlrd
 openpyxl
 PyPDF2
+pytest

@@ -49,6 +49,7 @@ def test_xls_file():
         print(sheet.row(rx))
 
 
+
 def test_pdf_file():
     reader = PdfReader(pdf_file)
     number_of_pages = len(reader.pages)
